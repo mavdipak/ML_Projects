@@ -1,0 +1,15 @@
+    # Ignore compiled output
+    *.o
+    *.exe
+    *.dll
+
+    # Ignore editor/IDE specific files
+    .vscode/
+    .idea/
+
+    # Ignore log files
+    *.log
+    v1/
+
+    # Ignore sensitive information (e.g., environment variables)
+    .env
